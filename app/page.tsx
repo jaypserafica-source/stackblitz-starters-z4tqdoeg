@@ -15,7 +15,7 @@ export default function Home() {
           </p>
 
           <h1>
-            Hi, I'm John Paul Serafica.
+            Hi, I&apos;m John Paul Serafica.
             <span>
               I Grow Brands Through Data Driven Advertising
             </span>
@@ -86,7 +86,7 @@ export default function Home() {
         </p>
 
         <p>
-          Over the past five years, I've worked across multiple marketplaces,
+          Over the past five years, I&apos;ve worked across multiple marketplaces,
           helping brands improve visibility, optimize advertising investment,
           and drive sustainable sales growth. My experience spans FMCG,
           food, beverages, baby care, batteries, and health products,
@@ -174,11 +174,11 @@ export default function Home() {
 
 
     <h3 className="brand-title">
-  Brands I've Worked With
+  Brands I&apos;ve Worked With
 </h3>
 
 <p className="brand-intro">
-Throughout my career, I've supported a diverse portfolio of FMCG brands,
+Throughout my career, I&apos;ve supported a diverse portfolio of FMCG brands,
   developing marketplace advertising strategies across multiple categories,
   consumer segments, and retail environments.
 </p>
@@ -225,7 +225,7 @@ Throughout my career, I've supported a diverse portfolio of FMCG brands,
 
 <div className="brand-names">
 <span>Oatly</span>
-<span>L'Or</span>
+<span>L&apos;Or</span>
 <span>Maxwell House</span>
 <span>Illy</span>
 <span>Freez</span>
@@ -681,7 +681,7 @@ marketplace advertising growth.
           </h2>
 
           <p>
-            Let's work together and build stronger marketplace growth.
+            Let&apos;s work together and build stronger marketplace growth.
           </p>
 
         </div>

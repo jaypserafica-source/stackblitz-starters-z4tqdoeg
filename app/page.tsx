@@ -690,5 +690,5 @@ marketplace advertising growth.
       </main>
 
 </>
-)
+);
 }
